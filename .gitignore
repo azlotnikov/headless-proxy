@@ -1,0 +1,6 @@
+# JetBrains files
+.project
+.idea
+*.iml
+cover.out
+.go-cache/
